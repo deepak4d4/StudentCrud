@@ -1,0 +1,1 @@
+It is java spring boot application in which we can perform a simple crud operation like adding details of a student like his name, fee and course and along with that we can delete the prior entries present in it and we can also update the entries present in it.
